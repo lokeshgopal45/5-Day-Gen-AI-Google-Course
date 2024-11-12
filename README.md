@@ -1,5 +1,5 @@
 # 5-Day-Gen-AI-Google-Course
-## What is the 5-Day Generative AI Intensive? <br>
+
 It’s a 5-day online course on November 11 - 15 designed to help you deeply understand some of the fundamental technologies and techniques behind Generative AI. 
 Created by a team of Google’s ML researchers and engineers, this program includes both conceptual deep dives and hands-on coding examples so you can tackle new Gen AI projects with confidence.
 
